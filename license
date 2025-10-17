@@ -1,0 +1,102 @@
+MIT License
+
+Copyright (c) 2025 Pomodoro Timer Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Licencias de Dependencias
+
+Este proyecto utiliza exclusivamente librerías de la librería estándar de Python:
+
+### tkinter
+- **Licencia**: PSF License / BSD License
+- **Versión**: Built-in con Python
+- **Compatible**: ✅ MIT Compatible
+- **Fuente**: https://docs.python.org/3/library/tkinter.html
+
+### threading
+- **Licencia**: PSF License
+- **Versión**: Built-in con Python
+- **Compatible**: ✅ MIT Compatible
+- **Fuente**: https://docs.python.org/3/library/threading.html
+
+### winsound
+- **Licencia**: PSF License
+- **Versión**: Built-in con Python (Windows)
+- **Compatible**: ✅ MIT Compatible
+- **Fuente**: https://docs.python.org/3/library/winsound.html
+
+### Python Standard Library
+- **Licencia**: PSF License
+- **Versión**: 3.7+
+- **Fuente**: https://docs.python.org/3/license.html
+
+---
+
+## Compatibilidad Legal
+
+Todas las dependencias utilizadas en este proyecto están bajo licencias que son:
+
+1. **100% Open Source**: Todas son de código abierto
+2. **MIT Compatible**: Pueden ser usadas en proyectos con licencia MIT
+3. **Comercialmente Viables**: Permitidas en software comercial sin restricciones adicionales
+4. **Sin Requisitos Virales**: No requieren que el software derivado sea open source
+
+El proyecto Pomodoro Timer puede ser usado, modificado y distribuido libremente bajo
+la licencia MIT sin conflictos legales.
+
+---
+
+## Términos de Uso Adicionales
+
+### Responsabilidad
+El software se proporciona "tal cual", sin garantías implícitas. Los autores no serán
+responsables de daños causados por el uso de este software.
+
+### Atribución
+Si redistribuyes este software, debes:
+- Mantener el aviso de copyright original
+- Mantener la copia de la licencia
+- Indicar cambios realizados (si los hay)
+
+No es necesario mencionar al autor en el software derivado, pero es apreciado.
+
+### Permisos
+- ✅ Uso comercial
+- ✅ Modificación
+- ✅ Distribución
+- ✅ Uso privado
+
+### Limitaciones
+- ❌ Responsabilidad (sin garantías)
+- ❌ Garantía (se proporciona tal cual)
+
+---
+
+## Información de Copyright
+
+El software "Pomodoro Timer" y todo el código fuente asociado está bajo copyright
+de sus contribuidores. El copyright no limita los derechos otorgados por esta licencia.
+
+Para más información sobre licencias de software open source, visita:
+- https://opensource.org/licenses/MIT
+- https://choosealicense.com/licenses/mit/
+- https://www.fsf.org/licenses/gpl-faq.html
