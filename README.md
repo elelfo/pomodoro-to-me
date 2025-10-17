@@ -40,8 +40,8 @@ sudo pacman -S tk
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/pomodoro-timer.git
-cd pomodoro-timer
+git clone https://github.com/elelfo/pomodoro-to-me.git
+cd pomodoro-to-me
 
 # Ejecutar la aplicación
 python pomodoro.py
@@ -166,8 +166,9 @@ Este software se proporciona "tal cual", sin garantías de ningún tipo. Los aut
 
 ## 📞 Contacto
 
-- **Issues**: [GitHub Issues](https://github.com/tu-usuario/pomodoro-timer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/tu-usuario/pomodoro-timer/discussions)
+- **Issues**: [GitHub Issues](https://github.com/elelfo/pomodoro-to-me/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/elelfo/pomodoro-to-me/discussions)
+- **Repository**: [github.com/elelfo/pomodoro-to-me](https://github.com/elelfo/pomodoro-to-me)
 
 ## 📊 Estado del Proyecto
 
